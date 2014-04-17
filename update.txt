@@ -3,3 +3,7 @@ is
 a 
 en_lan
 file
+
+added in net
+
+测试
