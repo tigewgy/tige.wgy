@@ -2,4 +2,5 @@
 int main()
 {
   printf("dog");
+  return 0;
 }
